@@ -1,0 +1,159 @@
+{
+  "header": {
+    "statut": 200,
+    "message": "OK",
+    "total": 0,
+    "debut": 0,
+    "nombre": 0,
+    "curseur": "string",
+    "curseurSuivant": "string"
+  },
+  "etablissements": [
+    {
+      "periodes": [
+        {
+          "dateFin": "2024-09-12",
+          "dateDebut": "2024-09-12",
+          "etatAdministratifEtablissement": "string",
+          "changementEtatAdministratifEtablissement": true,
+          "enseigne1Etablissement": "string",
+          "enseigne2Etablissement": "string",
+          "enseigne3Etablissement": "string",
+          "changementEnseigneEtablissement": true,
+          "denominationUsuelleEtablissement": "string",
+          "changementDenominationUsuelleEtablissement": true,
+          "activitePrincipaleEtablissement": "string",
+          "nomenclatureActivitePrincipaleEtablissement": "NAP",
+          "changementActivitePrincipaleEtablissement": true,
+          "caractereEmployeurEtablissement": "string",
+          "changementCaractereEmployeurEtablissement": true
+        }
+      ],
+      "score": 0,
+      "siren": "string",
+      "nic": "string",
+      "siret": "string",
+      "statutDiffusionEtablissement": "string",
+      "dateCreationEtablissement": "string",
+      "trancheEffectifsEtablissement": "string",
+      "anneeEffectifsEtablissement": "string",
+      "activitePrincipaleRegistreMetiersEtablissement": "string",
+      "dateDernierTraitementEtablissement": "string",
+      "etablissementSiege": true,
+      "nombrePeriodesEtablissement": 0,
+      "uniteLegale": {
+        "statutDiffusionUniteLegale": "O",
+        "unitePurgeeUniteLegale": true,
+        "dateCreationUniteLegale": "1955-01-01",
+        "identifiantAssociationUniteLegale": "string",
+        "trancheEffectifsUniteLegale": "string",
+        "anneeEffectifsUniteLegale": "string",
+        "dateDernierTraitementUniteLegale": "string",
+        "categorieEntreprise": "PME",
+        "anneeCategorieEntreprise": "string",
+        "sigleUniteLegale": "string",
+        "sexeUniteLegale": "M",
+        "prenom1UniteLegale": "string",
+        "prenom2UniteLegale": "string",
+        "prenom3UniteLegale": "string",
+        "prenom4UniteLegale": "string",
+        "prenomUsuelUniteLegale": "string",
+        "pseudonymeUniteLegale": "string",
+        "etatAdministratifUniteLegale": "A",
+        "nomUniteLegale": "string",
+        "denominationUniteLegale": "string",
+        "denominationUsuelle1UniteLegale": "string",
+        "denominationUsuelle2UniteLegale": "string",
+        "denominationUsuelle3UniteLegale": "string",
+        "activitePrincipaleUniteLegale": "string",
+        "categorieJuridiqueUniteLegale": "string",
+        "nicSiegeUniteLegale": "string",
+        "nomenclatureActivitePrincipaleUniteLegale": "NAP",
+        "nomUsageUniteLegale": "string",
+        "economieSocialeSolidaireUniteLegale": "string",
+        "societeMissionUniteLegale": "string",
+        "caractereEmployeurUniteLegale": "O"
+      },
+      "adresseEtablissement": {
+        "indiceRepetitionDernierNumeroVoieEtablisssement": "string",
+        "complementAdresseEtablissement": "string",
+        "numeroVoieEtablissement": "string",
+        "indiceRepetitionEtablissement": "string",
+        "dernierNumeroVoieEtablissement": "string",
+        "indiceRepetitionDernierNumeroVoieEtablissement": "string",
+        "typeVoieEtablissement": "string",
+        "libelleVoieEtablissement": "string",
+        "codePostalEtablissement": "string",
+        "libelleCommuneEtablissement": "string",
+        "libelleCommuneEtrangerEtablissement": "string",
+        "distributionSpecialeEtablissement": "string",
+        "codeCommuneEtablissement": "string",
+        "codeCedexEtablissement": "string",
+        "libelleCedexEtablissement": "string",
+        "codePaysEtrangerEtablissement": "string",
+        "libellePaysEtrangerEtablissement": "string",
+        "identifiantAdresseEtablissement": "string",
+        "coordonneeLambertAbscisseEtablissement": "string",
+        "coordonneeLambertOrdonneeEtablissement": "string"
+      },
+      "adresse2Etablissement": {
+        "complementAdresse2Etablissement": "string",
+        "numeroVoie2Etablissement": "string",
+        "indiceRepetition2Etablissement": "string",
+        "typeVoie2Etablissement": "string",
+        "libelleVoie2Etablissement": "string",
+        "codePostal2Etablissement": "string",
+        "libelleCommune2Etablissement": "string",
+        "libelleCommune2EtrangerEtablissement": "string",
+        "distributionSpeciale2Etablissement": "string",
+        "codeCommune2Etablissement": "string",
+        "codeCedex2Etablissement": "string",
+        "libelleCedex2Etablissement": "string",
+        "codePaysEtranger2Etablissement": "string",
+        "libellePaysEtranger2Etablissement": "string"
+      },
+      "periodesEtablissement": [
+        {
+          "dateFin": "2024-09-12",
+          "dateDebut": "2024-09-12",
+          "etatAdministratifEtablissement": "string",
+          "changementEtatAdministratifEtablissement": true,
+          "enseigne1Etablissement": "string",
+          "enseigne2Etablissement": "string",
+          "enseigne3Etablissement": "string",
+          "changementEnseigneEtablissement": true,
+          "denominationUsuelleEtablissement": "string",
+          "changementDenominationUsuelleEtablissement": true,
+          "activitePrincipaleEtablissement": "string",
+          "nomenclatureActivitePrincipaleEtablissement": "NAP",
+          "changementActivitePrincipaleEtablissement": true,
+          "caractereEmployeurEtablissement": "string",
+          "changementCaractereEmployeurEtablissement": true
+        }
+      ]
+    }
+  ],
+  "facettes": [
+    {
+      "nom": "string",
+      "manquants": 0,
+      "total": 0,
+      "modalites": 0,
+      "avant": 0,
+      "apres": 0,
+      "entre": 0,
+      "comptages": [
+        {
+          "valeur": {},
+          "nombre": 0,
+          "facettes": [
+            {}
+          ]
+        }
+      ],
+      "facettes": [
+        {}
+      ]
+    }
+  ]
+}
